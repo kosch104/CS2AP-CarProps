@@ -1,4 +1,18 @@
 {
-  "Assets.NAME[Example Asset]": "Example Name",
-  "Assets.DESCRIPTION[Example Asset]": "Example Description"
+  "Assets.NAME[CarProp02]": "Car Prop 02",
+  "Assets.DESCRIPTION[CarProp02]": "Car Prop 02 Description",
+  "Assets.NAME[CarProp03]": "Car Prop 03",
+  "Assets.DESCRIPTION[CarProp03]": "Car Prop 03 Description",
+  "Assets.NAME[CarProp04]": "Car Prop 04",
+  "Assets.DESCRIPTION[CarProp04]": "Car Prop 04 Description",
+  "Assets.NAME[CarProp05]": "Car Prop 05",
+  "Assets.DESCRIPTION[CarProp05]": "Car Prop 05 Description",
+  "Assets.NAME[CarProp06]": "Car Prop 06",
+  "Assets.DESCRIPTION[CarProp06]": "Car Prop 06 Description",
+  "Assets.NAME[CarProp07]": "Car Prop 07",
+  "Assets.DESCRIPTION[CarProp07]": "Car Prop 07 Description",
+  "Assets.NAME[CarProp08]": "Car Prop 08",
+  "Assets.DESCRIPTION[CarProp08]": "Car Prop 08 Description",
+  "Assets.NAME[CarProp09]": "Car Prop 09",
+  "Assets.DESCRIPTION[CarProp09]": "Car Prop 09 Description"
 }
