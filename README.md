@@ -2,8 +2,6 @@
 
 This Asset pack adds a variety of car props to the game. They do not have any functionality and have to be used with caution.
 
-These Car assets have been created by Harbourmaster Jay. 
-
 # DISCLAIMER
 
 Unofficial Custom Assets are highly experimental. They WILL crash your game at some point or throw errors. Create redundand copies of your savefiles and use at your own risk. There has not been a lot of testing done on custom assets, and I'm publishing this project to get feedback from the community.
