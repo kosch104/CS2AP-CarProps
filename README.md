@@ -15,4 +15,4 @@ Check out [Custom Asset Pack](https://github.com/kosch104/CS2-CustomAssetPack) t
 
 
 ## Support and Contact
-Contact me on Discord Konsi#1337 or create an issue on this repository for help. There will also be a support discord environment.
+To receive help and find other asset creators join the [Cities Skylines Modding Discord](https://discord.gg/UkKAfRqfCn). We have infrastructure with a knowledge base and a community of creators that can help you with your questions.
