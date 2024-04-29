@@ -20,9 +20,9 @@
 
         <AdditionalFilesDirectory>Resources</AdditionalFilesDirectory>
 
-        <AssemblyVersion>1.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0</AssemblyVersion>
 
-        <FileVersion>1.0.0</FileVersion>
+        <FileVersion>1.1.0</FileVersion>
     </PropertyGroup>
     
     <!--Imports must be after PropertyGroup block-->

@@ -37,7 +37,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:91c63b6825e22ec4b876ce7b52994f6b",
-                "m_Priority": 1,
+                "m_Priority": 100,
                 "m_Icon": "coui://customassets/Konsi_CarProps/CasketTrolleyProp01/CasketTrolleyProp01.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false

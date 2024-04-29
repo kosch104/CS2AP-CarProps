@@ -6,7 +6,7 @@ namespace AP_CarProps
 {
     public class Mod : IMod
     {
-        public static ILog log = LogManager.GetLogger($"{nameof(AP_CarProps)}.{nameof(Mod)}")
+        public static ILog log = LogManager.GetLogger($"AssetPackManager.Packs")
             .SetShowsErrorsInUI(false);
 
         public void OnLoad(UpdateSystem updateSystem)
