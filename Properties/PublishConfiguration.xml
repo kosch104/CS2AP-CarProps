@@ -20,15 +20,15 @@ Unofficial Custom Assets are highly experimental. They WILL crash your game at s
 Localization for the Assets will be coming soon.
 	</LongDescription>
 	<!--Thumbnail-->
-	<Thumbnail Value="Properties/Thumbnail.png" />
-	<Screenshot Value="Properties/Thumbnail.png" />
-	<Screenshot Value="Properties/image1.png" />
+	<Thumbnail Value="Properties/Thumbnail2.png" />
+	<!--<Screenshot Value="Properties/Thumbnail.png" />
+	<Screenshot Value="Properties/image1.png" />-->
 	<!--Tag, can be set multiple times-->
 	<Tag Value="" />
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="1.1.0" />
+	<ModVersion Value="1.1.2" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="1.1.*" />
 	<!--Dependency for the mod, can be set multiple times-->
